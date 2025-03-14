@@ -1,0 +1,305 @@
+Entity,Word,Count
+MEDCON,dengue,1
+DIS,dengue,1023
+DIS,denguegrabeeee,1
+DIS,covid,16
+DIS,ebola,3
+DIS,malaria,2
+DIS,leptospirosis,2
+DIS,polio,2
+DIS,virus,5
+DIS,dengueon,3
+DIS,denguecovid,2
+DIS,denguegi,1
+DIS,denguegiawag,1
+DIS,denguecj,1
+DIS,typoid,2
+DIS,denguepakistan,1
+DIS,nagkadengue,1
+DIS,denguekesa,1
+DIS,denguebut,1
+DIS,cancer,2
+DIS,sakinlamokdengue,1
+DIS,dengueml,1
+DIS,nagkadenguein,1
+DIS,denguewat,1
+DIS,degue,1
+DIS,plzdengue,1
+DIS,denguebe,2
+DIS,corona,1
+DIS,dengueee,1
+DIS,denguepero,1
+DIS,cases,1
+DIS,cutydengue,1
+DIS,covid19,1
+DIS,denguedoc,1
+DIS,dengueboy,2
+DIS,denguesarspolio,1
+DIS,simbako,2
+DIS,madengue,1
+DIS,dengueor,1
+DIS,dengueabangan,1
+DIS,denguesay,1
+DIS,dengueabnoy,1
+DIS,na,1
+DIS,pa,1
+DIS,dengueyawa,2
+DIS,dengueme,2
+DIS,covid19my,1
+DIS,dengueneed,1
+DIS,dengueking,1
+DIS,dengueelmer,1
+DIS,nadengueme,1
+DIS,dengueabsent,1
+PER,tao,1
+PER,marco,1
+PER,doctor,9
+PER,anak,9
+PER,tindera,1
+PER,auntie,1
+PER,people,3
+PER,josua,2
+PER,kyle,2
+PER,kid,1
+PER,amo,1
+PER,pulis,1
+PER,kuya,4
+PER,mama,7
+PER,friend,6
+PER,mom,8
+PER,parents,9
+PER,mader,1
+PER,lalakibabae,1
+PER,doc,6
+PER,nicol,1
+PER,classmate,1
+PER,patient,16
+PER,langga,1
+PER,mommy,2
+PER,nepew,1
+PER,ate,3
+PER,baby,6
+PER,sister,2
+PER,cousin,2
+PER,pasyente,4
+PER,dr,2
+PER,woman,1
+PER,friends,5
+PER,singer,2
+PER,nursing,1
+PER,diana,3
+PER,patients,4
+PER,momsie,2
+PER,mels,2
+PER,pysicians,1
+PER,alyssa cariz,1
+PER,pinsan,1
+PER,crusme,1
+PER,neigbor,3
+PER,bata,7
+PER,dad,2
+PER,papa,6
+PER,classmates,1
+PER,ciz,1
+PER,kids,1
+PER,adults,1
+PER,victim,2
+PER,negosyante,1
+PER,babae,1
+PER,cairman,1
+PER,gerry carillo,1
+PER,instructor,2
+PER,army,2
+PER,ilonggo,1
+PER,ceska,1
+PER,students,1
+PER,mark zuckerberg,1
+PER,bro,1
+PER,usband,1
+PER,titas,1
+PER,palangga,2
+PER,gavin,1
+PER,amara,1
+PER,filipinos,1
+PER,bill gates,1
+PER,scientist,1
+PER,nicki,1
+PER,pnoy,2
+PER,jarlos,1
+PER,jereme,1
+PER,delivery guy,1
+PER,patiente,1
+PER,quillo,1
+PER,roseann,1
+PER,mitz,1
+PER,omed maxado,1
+PER,babysister,1
+PER,girl,1
+PER,king,1
+PER,players,1
+PER,eadce,1
+PER,ilana,1
+PER,doctors,2
+PER,nurses,1
+PER,mike,1
+PER,maegan,1
+PER,dryu,2
+PER,secretary,1
+PER,ari,1
+PER,abinas,1
+PER,kapoya,1
+ORG,ospital,25
+ORG,naospital,4
+ORG,bakery,1
+ORG,facebook,3
+ORG,kompanya,1
+ORG,barangay,4
+ORG,eskweln,1
+ORG,work,1
+ORG,community,1
+ORG,vaccination,1
+ORG,antidengue,1
+ORG,law,1
+ORG,council,1
+ORG,college,1
+ORG,trabao,1
+ORG,companya,1
+ORG,team,1
+ORG,sowbiz,1
+ORG,parmacy,1
+ORG,kampanya,1
+ORG,veterinarian,1
+ORG,government,2
+ORG,maoospital,1
+LOC,city,8
+LOC,room,3
+LOC,lobby,1
+LOC,rooms,1
+LOC,place,1
+LOC,lungsod,1
+LOC,san juan,1
+LOC,cebu,8
+LOC,province,2
+LOC,outside lab,1
+LOC,balay,8
+LOC,davao,4
+LOC,altercebu,1
+LOC,cebualter,1
+LOC,bukid,1
+LOC,gym,1
+LOC,scoolsana,1
+LOC,barangayuntana,1
+LOC,san roque,1
+LOC,islands,2
+LOC,dumaguete,1
+LOC,barangayplease,1
+LOC,davaodigos,1
+LOC,nigeria,1
+LOC,africa,1
+LOC,mall,1
+LOC,singapore,1
+LOC,office,2
+LOC,lapulapu,4
+LOC,ospital,1
+LOC,probinsiya,1
+LOC,pilippines,1
+LOC,central visayas,1
+LOC,pilippine,2
+LOC,roxas city,1
+LOC,provincial,1
+LOC,iloilo,4
+LOC,country,2
+LOC,boarding ouselai,1
+LOC,iskul,1
+LOC,scool,1
+LOC,australia,1
+LOC,vietnam,1
+LOC,negros occidental,1
+LOC,aklan,1
+LOC,capiz,1
+LOC,dengue,1
+LOC,western visayas,1
+LOC,kwarto,1
+LOC,elementary scool,1
+LOC,marilao,1
+LOC,bulacan,1
+LOC,town,1
+LOC,region,1
+LOC,iloillo,1
+LOC,israel,1
+LOC,davao oriental,1
+LOC,trinidad,1
+SYM,lagnat,4
+SYM,bodydontsutdowna,1
+SYM,stress,1
+SYM,ilanat,24
+SYM,rases,7
+SYM,ilanatyawa,1
+SYM,fever,24
+SYM,magbleeding,1
+SYM,severe deydration,1
+SYM,severe  kuyapan,1
+SYM,muscle pain,1
+SYM,muscle cramps,1
+SYM,flu,5
+SYM,very low na kyo iy platelets,2
+SYM,ubos kyo iyang platelet,2
+SYM,cyst,1
+SYM,measles,4
+SYM,pneumonia,4
+SYM,ubos platelet,1
+SYM,burning,1
+SYM,wole body is cilling,1
+SYM,ubo,1
+SYM,sipon,2
+SYM,makailanat,1
+SYM,labad ulo,1
+SYM,labad sa ulo,2
+SYM,nani akong dugo,1
+SYM,labad pa jpun akong ulo,1
+SYM,labad sa ulo pag,1
+SYM,dysmenorreaon,1
+SYM,labad sakong ulo,1
+SYM,nosebleed,1
+SYM,samut ako ulo,1
+SYM,labad akong ulo,1
+SYM,red spots,1
+SYM,seg suka,1
+SYM,mosquito bites,2
+SYM,nisaka ra ang platelets,1
+SYM,typoid,2
+SYM,fevr,1
+SYM,presence of bleeding,2
+SYM,epistaxis,2
+SYM,potosensitivity,1
+SYM,astigmatism,1
+SYM,migraines,1
+SYM,nangubag ag lips,1
+SYM,sakit ang tiyan,1
+SYM,sakit tutonlan,1
+SYM,instant payat,1
+SYM,mawaln ko ug gana sa pagkaon,1
+SYM,ubos ang platelets,1
+SYM,vomiting,1
+SYM,allergy,1
+SYM,trangkaso,1
+SYM,blessednever,1
+SYM,gilagnat,1
+SYM,biting mosquitoes,1
+SYM,ilanan,1
+SYM,sakit sa tawo,1
+SYM,diarrea,1
+SYM,sakit akon ulo,1
+SYM,masakit ang tao,1
+SYM,ospital,1
+SYM,feverc,2
+YEAR,2020,2
+YEAR,2016,3
+YEAR,alalan2019,1
+YEAR,2022,1
+YEAR,2021,2
+YEAR,2018,2
+YEAR,2019lapulapu,1
+YEAR,2019,2
+YEAR,2013,1
+YEAR,2023,1
